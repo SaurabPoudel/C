@@ -9,9 +9,9 @@ void main()
 	// Input
 	printf("Enter a number: \n");
 	scanf("%d",&c);
-	printf("How precise value do you need? : \n");
+	printf("Enter the precision factor[1-100] : \n");
 	scanf("%d",&p);
-	printf("Enter any positive value:\n");
+	printf("Guess your answer:\n");
 	scanf("%f",&x_first );
 	//Process 
 	for(i=1;i<=p;i++)
