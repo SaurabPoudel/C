@@ -1,1 +1,1 @@
-# C-labs
+# C Programming and some dumb DSA
