@@ -1,4 +1,4 @@
-/* Program to find square root of any number using Newton Raphson method */
+/* Program to find square root of any number using iterative method */
 #include <stdio.h>
 
 void main()
