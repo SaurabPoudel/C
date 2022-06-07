@@ -1,1 +1,1 @@
-# C and Assembly language
+# C language
